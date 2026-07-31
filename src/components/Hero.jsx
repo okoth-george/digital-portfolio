@@ -31,7 +31,7 @@ const Hero = () => {
           </p>
 
           <p className="mt-5 text-lg leading-8 text-slate-600 dark:text-slate-400">
-            I build beautiful, responsive web applications with modern
+            I build beautiful, responsive web applications and softwares with modern
             technologies. Passionate about clean code, great user experiences,
             and turning ideas into reality.
           </p>
