@@ -93,7 +93,7 @@ const Navbar = ({ theme, toggleTheme }) => {
             className="mt-2 inline-flex w-fit rounded-full bg-cyan-600 px-4 py-2 text-sm font-semibold text-white"
             onClick={handleLinkClick}
           >
-            Hire Me
+            Talk to me
           </a>
         </div>
       </div>
